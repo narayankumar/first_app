@@ -1,8 +1,8 @@
 source 'https://rubygems.org'
-ruby '2.1.3'
+ruby '2.2.1'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.1.6'
+gem 'rails', '4.2.5.2'
 # Use sqlite3 as the database for Active Record
 group :development do
   gem 'sqlite3'
